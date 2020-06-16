@@ -11,3 +11,7 @@ Win
 SET SPOTIPY_CLIENT_SECRET=
 SET SPOTIPY_CLIENT_ID=
 ```
+
+Windows-Anaconda-Spyder
+pip install pyttsx3
+pip install sopel-modules.wolfram
